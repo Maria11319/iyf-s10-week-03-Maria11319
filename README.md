@@ -1,59 +1,44 @@
-## \# Maria - Week 01 Project
+# Week 3: Web Developer Tools and Workflow
 
-## 
+## Author
 
-## A portfolio website built with HTML and CSS as part of the IYF S10 program.
+- **Name:** Maria11319
+- **GitHub:** [@Maria11319](https://github.com/Maria11319)
+- **Date:** May 2026
 
-## 
+## Project Description
 
-## 
+A project focused on web developer tools and workflow best practices. Includes browser DevTools exploration, semantic HTML, and accessibility reporting.
 
-## \[View Live Site](https://Maria11319.github.io/iyf-s10-week-01-Maria11319)
+## Technologies Used
 
-## 
+- HTML5
+- CSS3
+- Chrome DevTools
+- Git & GitHub
 
-## 
+## Features
 
-## \- ✅ Responsive design
+- Semantic HTML structure
+- Accessibility report
+- DevTools exploration
+- Daily challenges (day1-day5)
+- Responsive design practices
 
-## \- ✅ Multi-page layout
+## How to Run
 
-## \- ✅ Contact form
+1. Clone this repository
+2. Open `index.html` in your browser
 
-## \- ✅ CSS Flexbox and Grid
+## Lessons Learned
 
-## 
+- How to use Chrome DevTools effectively
+- Importance of semantic HTML
+- Web accessibility best practices
+- Git workflow and version control
 
-## 
+## Challenges Faced
 
-## \- HTML5
-
-## \- CSS3 (Flexbox, Grid)
-
-## \- Git \& GitHub
-
-## 
-
-## 
-
-## I learned how to use the terminal, create files, use Git for version control, create branches and push code to GitHub.
-
-## 
-
-## 
-
-## \- \[ ] Add JavaScript interactivity
-
-## \- \[ ] Implement dark mode
-
-## \- \[ ] Add project filtering
-
-## 
-
-## 
-
-## \- Email: mariajones3197@gmail.com
-
-## \- GitHub: \[@Maria11319](https://github.com/Maria11319)
-
-# updated
+- Understanding accessibility requirements
+- Using DevTools for debugging
+- Writing semantic HTML correctly
